@@ -1,3 +1,10 @@
+/*
+Eric Wang
+Rocket Patrol: Rejuvenate
+around 3 hours
+A, D for left/right movement, mouse L Click to fire (? points)
+Adding a countdown timer (3 point)
+*/
 let config = {
     type: Phaser.CANVAS,
     width: 640,
